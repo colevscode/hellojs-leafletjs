@@ -12,3 +12,9 @@ http://leafletjs.com/examples/quick-start.html
 And the leaflet home page here:
 
 http://leafletjs.com/
+
+
+Trying out Leaflet.js
+---------------------
+
+<button><a href="https://backlift.com/backlift/dropbox/create?template=github.com/colevscode/hellojs-leafletjs">Try leaflet.js!</a></button>
