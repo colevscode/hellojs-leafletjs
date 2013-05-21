@@ -17,4 +17,4 @@ http://leafletjs.com/
 Trying out Leaflet.js
 ---------------------
 
-<a href="https://backlift.com/backlift/dropbox/create?template=github.com/colevscode/hellojs-leafletjs">Click Here</a> to install leaflet.js into your Dropbox folder via Backlift.
+<a href="https://backlift.com/backlift/dropbox/create?template=github.com/colevscode/hellojs-leafletjs"><img src="https://www.backlift.com/images/tryit.png"></a> Click to install leaflet.js into your Dropbox folder via Backlift.
